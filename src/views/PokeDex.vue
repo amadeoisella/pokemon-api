@@ -111,7 +111,6 @@ export default {
     IonSearchbar,
     IonButton,
     IonCard,
-    IonCardHeader,
     IonCardContent,
     IonImg,
     IonCardSubtitle,
