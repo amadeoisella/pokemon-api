@@ -4,8 +4,8 @@ Este proyecto utiliza Vue.js y Ionic para consumir la PokeAPI, permitiendo acced
 
 ## Instalación
 
-1. Clona este repositorio: `git clone [URL del repositorio]`
-2. Entra al directorio del proyecto: `cd nombre-del-proyecto`
+1. Clona este repositorio: `git clone [https://github.com/amadeoisella/pokemon-api]`
+2. Entra al directorio del proyecto: `cd pokemon-api`
 3. Instala las dependencias: `npm install`
 
 ## Uso
